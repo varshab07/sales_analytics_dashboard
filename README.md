@@ -56,6 +56,7 @@ The dashboard includes:
 - Sales by Region
 - Payment Mode Analysis
 - Sales by state
+- sales by City
 - Interactive Slicers
 - Timeline Filter
 ## Excel Features Used
