@@ -75,7 +75,7 @@ This interactive dashboard enables users to:
 - Track Monthly Sales Trends.
 - Analyze Payment Mode Distribution.
 - Compare Product Category performance.
-- Filter the dashboard dynamically using Year, Category, and Product slicers.
+- Filter the dashboard dynamically using Month, Category, and Product slicers.
 ## Project Structure
 Sales_Dashboard/
 ```
