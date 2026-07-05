@@ -68,6 +68,14 @@ The dashboard includes:
 - Slicers
 - Timeline
 - Conditional Formatting
+##  Key Analysis
+This interactive dashboard enables users to:
+- Analyze sales performance by Region.
+- Compare sales across Cities and States.
+- Track Monthly Sales Trends.
+- Analyze Payment Mode Distribution.
+- Compare Product Category performance.
+- Filter the dashboard dynamically using Year, Category, and Product slicers.
 ## Project Structure
 Sales_Dashboard/
 ```
