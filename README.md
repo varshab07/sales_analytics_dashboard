@@ -1,0 +1,91 @@
+# Sales Dashboard in Microsoft Excel
+## Project Overview
+### This project demonstrates the complete process of cleaning a messy sales dataset and building an interactive dashboard using Microsoft Excel. The dataset contained missing values, duplicate records, inconsistent text, mixed date formats, and invalid entries. After cleaning the data, Pivot Tables, Pivot Charts, Slicers, and Timeline were used to create an interactive sales dashboard.
+---
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline
+- Conditional Formatting
+## Dataset
+The dataset contains sales transaction data including:
+- Order ID
+- Customer Name
+- Gender
+- Email
+- Phone Number
+- Product
+- Category
+- Quantity
+- Unit Price
+- Order Date
+- Ship Date
+- City
+- State
+- Region
+- Payment Mode
+## Data Cleaning
+The following cleaning operations were performed in Microsoft Excel:
+- Removed blank Order IDs
+- Removed duplicate records
+- Removed repeated header rows
+- Trimmed extra spaces
+- Standardized Customer Names
+- Standardized Gender values
+- Filled missing Email values
+- Standardized Product names
+- Standardized Categories
+- Cleaned Quantity values
+- Removed currency symbols from Unit Price
+- Converted mixed date formats into valid Excel dates
+- Standardized Phone Numbers
+- Standardized Region values
+- Corrected State names
+- Standardized Payment Modes
+## Dashboard Features
+The dashboard includes:
+- KPI Cards
+   - Total Sales
+   - Total Orders
+   - Average Sales
+   - Total Quantity
+- Monthly Sales Trend
+- Sales by Category
+- Sales by Region
+- Payment Mode Analysis
+- Top Selling Products
+- Interactive Slicers
+- Timeline Filter
+## Excel Features Used
+- Remove Duplicates
+- Text Functions
+- Date Conversion
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline
+- Conditional Formatting
+## Project Structure
+Sales_Dashboard/
+```
+|__Dataset/
+|   sales_messy_dataset.xlsx
+
+|__Dashboard/
+|   Sales_Dashboard.xlsx
+
+|__Assets/
+|   Dashboard Icons
+
+|__README.md
+```
+## Dashboard Preview
+![Dashboard.img](./Assets/Dashboard.png)
+
+## Outcome      
+The cleaned dataset was transformed into an interactive Excel dashboard that enables quick analysis of sales performance using filters, charts, KPIs, and timelines.
+
+## Author
+Varsha Bisen
